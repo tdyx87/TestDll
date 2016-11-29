@@ -1,0 +1,4 @@
+LIBRARY testAdd
+EXPORTS
+testAdd @1
+ testint @2
